@@ -1,0 +1,12 @@
+# Vehicle Project
+
+## Description
+This project contains programs related to vehicle operations.
+
+## Folder Structure
+- vehicle/ → contains source code files
+
+## How to Run
+1. Open terminal
+2. Navigate to folder
+3. Run program using compiler/interpreter
